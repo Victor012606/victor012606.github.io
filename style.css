@@ -17,6 +17,9 @@ flex: 1;
 
 article{
 flex: 3;
+background-image: url(https://user-images.githubusercontent.com/100692708/157532613-cd74193f-7818-43b5-81a9-72755ca6072b.jpg);
+background-repeat: no-repeat;
+background-size: 100% auto;
 }
 
 
