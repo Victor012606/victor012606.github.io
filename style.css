@@ -23,3 +23,29 @@ flex: 3;
 header{
 flex: auto;
 }
+
+.setting-box{undefined
+with:100%;
+background: #00F7DE;
+margin: 0 auto;
+position:relative;
+}
+.setting-img{undefined
+width: 100%;
+position:relative;
+z-index:1;
+height:460px;
+overflow:hidden;
+}
+.setting-img img{undefined
+position:absolute;
+top:50%;
+bottom:0;
+left:0;
+right:0;
+width:100%;
+margin:0;
+z-index: -1;
+*zoom:1;
+transform: translateY(-50%);
+}
