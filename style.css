@@ -19,3 +19,7 @@ flex: 1;
 article{
 flex: 3;
 }
+
+header{
+flex: auto;
+}
