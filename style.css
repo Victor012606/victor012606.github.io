@@ -21,7 +21,8 @@ flex: 3;
 }
 
 header{
-height: 400px;
+flex-basis: 400px;
+flex-grow: 2;
 }
 
 
