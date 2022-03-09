@@ -25,4 +25,13 @@ article{
 flex: 3;
 }
 
+menu{
+margin: 0;
+padding: 0;
+list-style: none;
+}
 
+menu li{
+padding-left: 20px;
+background: url(link address) no-repeat left center;
+}
