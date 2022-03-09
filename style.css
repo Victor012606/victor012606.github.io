@@ -9,7 +9,7 @@ flex-direction: column;
 
 main{
 display: flex;
-flex: auto;
+flex-basis: auto;
 }
 
 aside{
@@ -25,5 +25,7 @@ flex-basis: 400px;
 flex-grow: 2;
 }
 
-
+footer{
+flex-basis: auto;
+}
 
